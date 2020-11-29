@@ -1,1 +1,1 @@
-# auth
+# Delta Client Authentication
